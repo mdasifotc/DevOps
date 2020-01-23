@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 my name is badnebhai of branch 1
+
+EDITING IS GOING ON
 =======
 my name is basha
 >>>>>>> master
